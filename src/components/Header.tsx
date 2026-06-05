@@ -71,6 +71,8 @@ export default function Header() {
                 </nav>
             </div>
 
+            
+
             { isHome && (
                 <form
                     className='md:w-1/2 2xl:w-1/3 bg-orange-400 my-32 p-10 rounded-lg shadow space-y-6'

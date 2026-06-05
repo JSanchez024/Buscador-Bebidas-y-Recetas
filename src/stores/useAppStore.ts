@@ -8,6 +8,6 @@ export const useAppStore = create<RecipiesSliceType & FavoritesSliceType & Notif
 
     ...createRecipesSlice(...a),
     ...createFavoriteSlice(...a),
-    ...createNotificationSlice(...a),
+    ...createNotificationSlice(...a) 
 
 }))) 
