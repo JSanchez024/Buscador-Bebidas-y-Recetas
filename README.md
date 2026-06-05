@@ -1,6 +1,10 @@
-¡Bienvenido a **Cocktail App**! Una aplicación web diseñada para los entusiastas del mundo de la coctelería y las buenas bebidas. Esta plataforma te permite explorar, buscar y descubrir una amplia variedad de recetas de cócteles, además de gestionar de manera dinámica tus preparaciones preferidas.
+¡Bienvenido a **Cocktail App**! 🍸🍹☕
 
-## ✨ Características Principales
+Una aplicación web diseñada para los entusiastas del mundo de la coctelería y las buenas bebidas. Esta plataforma te permite explorar, buscar y descubrir una amplia variedad de recetas de cócteles, además de gestionar de manera dinámica tus preparaciones preferidas.
+
+---
+
+## ✨ Características
 
 - **Búsqueda Avanzada e Inteligente**: Encuentra cócteles al instante ingresando palabras clave o el nombre de un ingrediente en específico (por ejemplo, *café*).
 - **Filtros por Categoría**: Explora recetas organizadas detalladamente por clasificaciones oficiales (ej. *Coffee / Tea*, *Cocktails*, *Shots*, *Ordinary Drink*, entre otras).
@@ -8,9 +12,15 @@
 - **Módulo de Favoritos Persistente**: Añade o elimina cócteles de tu lista personal de favoritos de forma fluida. Tu selección se mantendrá guardada para futuras consultas.
 - **Diseño UI/UX Pulido y Adaptable**: Interfaz limpia con una estética sofisticada de alto contraste utilizando tonalidades oscuras, blancas y acentos en naranja vibrante, totalmente responsive para dispositivos móviles y escritorio.
 
+---
+
+## 📸 Vista Previa
+
+A continuación se muestra la interfaz principal de la aplicación con una busqueda activa:
+
 <img width="781" height="811" alt="receta 1" src="https://github.com/user-attachments/assets/91c2cdb7-322a-438a-bf56-81728e4090cf" />
 
-## 🛠️ Tecnologías Usadas
+---
 
 ## 🛠️ Tecnologías Usadas
 
@@ -20,6 +30,7 @@
 - **Conexión de Datos**: Integración con API REST de coctelería para la sincronización de las recetas en tiempo real.
 tailwindcs
 
-✒️ Autor
 ---
+
+✒️ Autor
 Joaquin Sanchez / jsanchez024
